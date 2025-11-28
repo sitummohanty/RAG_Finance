@@ -1,0 +1,17 @@
+# Core Dependencies
+langchain==0.1.0
+langchain-community==0.0.20
+
+# Vector Database
+chromadb==0.4.22
+
+# PDF Processing
+PyMuPDF==1.23.8
+
+# LLM and Embeddings
+transformers==4.36.2
+torch==2.1.2
+sentence-transformers==2.2.2
+
+# Utilities
+numpy==1.26.3
